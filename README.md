@@ -3,7 +3,7 @@ Fake Reality Group Website
 
 # Description
 
-This is an examplesite for the Full Stack Web Development V3 course, HTML Fundametnals section at The Flatiron School.
+This is an example site for the Full Stack Web Development V3 course, HTML Fundametnals section at The Flatiron School.
 
 # Contact
 
